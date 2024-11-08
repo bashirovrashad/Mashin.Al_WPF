@@ -1,0 +1,221 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\3225180_app_logo_media_popular_social_icon.png" />
+    <None Remove="Images\3225194_app_facebook_logo_media_popular_icon.png" />
+    <None Remove="Images\35534_i4Yp6onln289ie_5qcDoNA.jpg" />
+    <None Remove="Images\3787425_telegram_logo_messanger_social_social media_icon.png" />
+    <None Remove="Images\5340292_locate_location_map_pin_icon.png" />
+    <None Remove="Images\6929237_instagram_icon.png" />
+    <None Remove="Images\7693284_tiktok_social media_apps_logo_icon.png" />
+    <None Remove="Images\cars_\24a0f348-b4de-492e-a838-a4daa757c49c.png" />
+    <None Remove="Images\cars_\3dcb9313-58f3-4c74-a3ff-43cc5cc02187.png" />
+    <None Remove="Images\cars_\5d623be3-b851-4470-9661-c6612a252064.png" />
+    <None Remove="Images\cars_\6802a276-a492-4b8b-98c0-28ef879ec095.png" />
+    <None Remove="Images\cars_\7f13ba00-879b-4f7a-8f20-0232e5b3c659.png" />
+    <None Remove="Images\cars_\a1017553-731f-4f47-9cc4-f58958430b49.png" />
+    <None Remove="Images\cars_\a2f86ebd-3701-4dc2-b9e6-eae208ddde31.png" />
+    <None Remove="Images\cars_\dab3c04b-eb89-421a-88e6-e25f1d7c1370.png" />
+    <None Remove="Images\cars_\dd2bea0a-8aba-4632-b20d-24b0813c3047.png" />
+    <None Remove="Images\cars_\eeafd7b6-ffcd-411d-9918-da49e0564aee.png" />
+    <None Remove="Images\cars_\eed7b50d-dbe8-4220-98ad-070f3f3b39a9.png" />
+    <None Remove="Images\istockphoto-1064131986-612x612.jpg" />
+    <None Remove="Images\masin_nomreleri\Screenshot 2023-11-16 123000.png" />
+    <None Remove="Images\masin_nomreleri\Screenshot 2023-11-16 125000.png" />
+    <None Remove="Images\masin_nomreleri\Screenshot 2023-11-16 125056.png" />
+    <None Remove="Images\masin_nomreleri\Screenshot 2023-11-17 114640.png" />
+    <None Remove="Images\masin_nomreleri\Screenshot 2023-11-17 114937.png" />
+    <None Remove="Images\Screenshot 2023-11-10 122233.png" />
+    <None Remove="Images\Screenshot 2023-11-10 124101.png" />
+    <None Remove="Images\Screenshot 2023-11-11 111109.png" />
+    <None Remove="Images\Screenshot 2023-11-11 111748.png" />
+    <None Remove="Images\Screenshot 2023-11-11 112332.png" />
+    <None Remove="Images\Screenshot 2023-11-11 112528.png" />
+    <None Remove="Images\Screenshot 2023-11-11 113816.png" />
+    <None Remove="Images\Screenshot 2023-11-11 113836.png" />
+    <None Remove="Images\Screenshot 2023-11-11 115919.png" />
+    <None Remove="Images\Screenshot 2023-11-17 211419.png" />
+    <None Remove="Images\Screenshot 2023-11-18 192809.png" />
+    <None Remove="Images\Screenshot 2023-11-18 193339.png" />
+    <None Remove="Images\Screenshot 2023-11-18 193527.png" />
+    <None Remove="Images\Screenshot 2023-11-18 193909.png" />
+    <None Remove="Images\Screenshot 2023-11-18 194023.png" />
+    <None Remove="Images\Screenshot 2023-11-18 194138.png" />
+    <None Remove="Images\Screenshot 2023-11-18 194907.png" />
+    <None Remove="Images\Screenshot 2023-11-18 195002.png" />
+    <None Remove="Images\Screenshot 2023-11-18 195324.png" />
+    <None Remove="Images\Screenshot 2023-11-18 200030.png" />
+    <None Remove="Images\vip_cars\05706cb5-81cc-47f5-a97b-3c81089d2e47.png" />
+    <None Remove="Images\vip_cars\1bff9a82-1a49-4395-a3bb-b561c251b3de.png" />
+    <None Remove="Images\vip_cars\271f8f8d-6e9d-4252-961f-911608a448d7.png" />
+    <None Remove="Images\vip_cars\35bd06fa-d689-451e-96b6-a89b62455e84.png" />
+    <None Remove="Images\vip_cars\4c6a76f2-3d7a-4be8-b120-3789c60715d0.png" />
+    <None Remove="Images\vip_cars\ee45ecaf-9416-4738-8c15-d370b5baaca7.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\3225180_app_logo_media_popular_social_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\3225194_app_facebook_logo_media_popular_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\5340292_locate_location_map_pin_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\24a0f348-b4de-492e-a838-a4daa757c49c.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\35534_i4Yp6onln289ie_5qcDoNA.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\3787425_telegram_logo_messanger_social_social media_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\6929237_instagram_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\7693284_tiktok_social media_apps_logo_icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\3dcb9313-58f3-4c74-a3ff-43cc5cc02187.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\5d623be3-b851-4470-9661-c6612a252064.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\6802a276-a492-4b8b-98c0-28ef879ec095.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\7f13ba00-879b-4f7a-8f20-0232e5b3c659.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\a1017553-731f-4f47-9cc4-f58958430b49.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\a2f86ebd-3701-4dc2-b9e6-eae208ddde31.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\dab3c04b-eb89-421a-88e6-e25f1d7c1370.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\dd2bea0a-8aba-4632-b20d-24b0813c3047.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\eeafd7b6-ffcd-411d-9918-da49e0564aee.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\cars_\eed7b50d-dbe8-4220-98ad-070f3f3b39a9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\istockphoto-1064131986-612x612.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\masin_nomreleri\Screenshot 2023-11-16 123000.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\masin_nomreleri\Screenshot 2023-11-16 125000.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\masin_nomreleri\Screenshot 2023-11-16 125056.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\masin_nomreleri\Screenshot 2023-11-17 114640.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\masin_nomreleri\Screenshot 2023-11-17 114937.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-10 122233.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-10 124101.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 111109.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 111748.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 112332.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 112528.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 113816.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 113836.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-11 115919.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-17 211419.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 192809.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 193339.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 193527.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 193909.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 194023.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 194138.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 194907.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 195002.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 195324.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Screenshot 2023-11-18 200030.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\05706cb5-81cc-47f5-a97b-3c81089d2e47.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\1bff9a82-1a49-4395-a3bb-b561c251b3de.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\271f8f8d-6e9d-4252-961f-911608a448d7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\35bd06fa-d689-451e-96b6-a89b62455e84.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\4c6a76f2-3d7a-4be8-b120-3789c60715d0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\vip_cars\ee45ecaf-9416-4738-8c15-d370b5baaca7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

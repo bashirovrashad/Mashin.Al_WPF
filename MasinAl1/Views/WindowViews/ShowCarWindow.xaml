@@ -1,0 +1,204 @@
+﻿<Window x:Class="MasinAl1.Views.WindowViews.ShowCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MasinAl1.Views.WindowViews"
+        xmlns:mycontrol="clr-namespace:MasinAl1.User_Controls"
+        mc:Ignorable="d"
+        Title="ShowCarWindow" Height="450" Width="800"
+        WindowState="Maximized" Background="#081a3e" >
+    <Grid Width="850" Height="700" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label x:Name="bir" Width="150" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15" ></Label>
+            <Label x:Name="iki" Width="150" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15" ></Label>
+            <Label x:Name="uc" Width="50" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15"></Label>
+            <Label x:Name="dord" Width="100" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"  FontSize="15"></Label>
+            <Label  Width="50" Content="il" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15" ></Label>
+            <Label x:Name="alti" Width="150" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" FontSize="15" ></Label>
+            <Label   Width="50" Content="km" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15"></Label>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6*"></ColumnDefinition>
+                <ColumnDefinition Width="4*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="onsekil" HorizontalAlignment="Center" ></Image>
+            <Label Grid.Column="1" VerticalContentAlignment="Top" HorizontalContentAlignment="Right" x:Name="sekkiz" FontSize="26" FontWeight="Bold" Margin="0,0,20,0" Width="200" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top"></Label>
+            <Label Grid.Column="1" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" x:Name="dogguz" FontSize="26" FontWeight="Bold" Margin="220,0,0,0" Width="80" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top"></Label>
+            
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label FontSize="18" Content="Elanin Melumatlari"></Label>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Buraxilis ili" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="on" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 192809.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Satis Seheri" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="onbir" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 193339.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Reng" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="oniki" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 193527.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+            </Grid>
+
+
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Muherrik Gucu" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="onuc" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 193909.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Ban Novu" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="on4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 194023.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Suretler Qutusu" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="on5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 194138.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Oturucu" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="on6" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 194907.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+
+                <Grid Grid.Column="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label Content="Yurus" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" ></Label>
+                        <Label Grid.Row="1" x:Name="on7" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+                    </Grid>
+                    <Image Width="30" Height="30" Source="..\..\Images\Screenshot 2023-11-18 195002.png" HorizontalAlignment="Right"></Image>
+                </Grid>
+               
+            </Grid>
+
+
+
+        </Grid>
+        
+        
+        
+        
+    </Grid>
+</Window>

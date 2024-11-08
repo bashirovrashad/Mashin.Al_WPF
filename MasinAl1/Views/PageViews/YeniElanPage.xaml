@@ -1,0 +1,78 @@
+﻿<Page x:Class="MasinAl1.Views.PageViews.YeniElanPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MasinAl1.Views.PageViews"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="YeniElanPage" Background="#081a3e">
+
+    <Grid Background="White" Width="550" Height="400">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" ></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Marka" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="1" Grid.Column="0" Content="Model" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="2" Grid.Column="0" Content="Il" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="3" Grid.Column="0" Content="Ban Novu" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="4" Grid.Column="0" Content="Yanacaq Novu" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="5" Grid.Column="0" Content="Oturucu" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="6" Grid.Column="0" Content="Suretler Qutusu" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="7" Grid.Column="0" Content="Yeni" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="8" Grid.Column="0" Content="Reng" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="9" Grid.Column="0" Content="Qiymet" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Label Grid.Row="10" Grid.Column="0" Content="Yurus" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></Label>
+        <Button Grid.Column="0" Grid.Row="11" Width="120" Content="Geri" FontSize="18" Background="#29a53e" Foreground="White" Click="go_main_button"></Button>
+
+        <TextBox x:Name="bir" Grid.Row="0" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="iki" Grid.Row="1" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="uc"  Grid.Row="2" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="dord" Grid.Row="3" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="bes" Grid.Row="4" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="alti" Grid.Row="5" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <Grid x:Name="sekkiz" Grid.Row="7" Grid.Column="1" >
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <RadioButton x:Name="on3" Content="Beli" GroupName="Options1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" IsChecked="True" />
+                <RadioButton Content="Xeyr" GroupName="Options1"  VerticalAlignment="Center" FontSize="16"/>
+            </StackPanel>
+        </Grid>
+        <TextBox x:Name="yeddi" Grid.Row="6" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="dukkuz" Grid.Row="8" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+        <TextBox x:Name="on" Grid.Row="10" Grid.Column="1"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+
+        <Grid Grid.Row="9" Grid.Column="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+               
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="on1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" ></TextBox>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <RadioButton x:Name="on2" Content="AZN" GroupName="Options" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" IsChecked="True" />
+                <RadioButton Content="USD" GroupName="Options"  VerticalAlignment="Center" FontSize="16"/>
+            </StackPanel>
+
+        </Grid>
+        <StackPanel Grid.Column="1" Grid.Row="11" Orientation="Horizontal" Width="300">
+            <Button  Width="120" Content="Sekil Elave Et" FontSize="18" Background="#29a53e" Foreground="White" HorizontalAlignment="Left" Margin="0,0,30,0" Click="sekil"></Button>
+            <Button  Width="120" Content="Masin Elave Et" FontSize="18" Background="#29a53e" Foreground="White" HorizontalAlignment="Right" Margin="30,0,0,0" Click="elave_masin"></Button>
+        </StackPanel>
+       
+    </Grid>
+</Page>

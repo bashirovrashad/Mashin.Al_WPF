@@ -1,0 +1,30 @@
+﻿<Window x:Class="MasinAl1.Views.WindowViews.AllCarsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MasinAl1.Views.WindowViews"
+        xmlns:mycontrol="clr-namespace:MasinAl1.User_Controls"
+        mc:Ignorable="d"
+        Title="AllCarsWindow" Height="450" Width="800"
+         WindowState="Maximized"  >
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <WrapPanel >
+                <ItemsControl ItemsSource="{Binding Cars}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <mycontrol:image_button />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </WrapPanel>
+        </ScrollViewer>
+       
+    </Grid>
+</Window>

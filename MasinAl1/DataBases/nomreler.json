@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Sems",
+    "Qiymet": 650,
+    "Seher": "Baki",
+    "Sekil": "..\\..\\Images\\masin_nomreleri\\Screenshot 2023-11-16 123000.png"
+  },
+  {
+    "Name": "Togrul",
+    "Qiymet": 900,
+    "Seher": "Gence",
+    "Sekil": "..\\..\\Images\\masin_nomreleri\\Screenshot 2023-11-16 125000.png"
+  },
+  {
+    "Name": "Natiq",
+    "Qiymet": 1500,
+    "Seher": "Baki",
+    "Sekil": "..\\..\\Images\\masin_nomreleri\\Screenshot 2023-11-16 125056.png"
+  },
+  {
+    "Name": "Cingiz",
+    "Qiymet": 5000,
+    "Seher": "Baki",
+    "Sekil": "..\\..\\Images\\masin_nomreleri\\Screenshot 2023-11-17 114640.png"
+  },
+  {
+    "Name": "Rufat",
+    "Qiymet": 2300,
+    "Seher": "Baki",
+    "Sekil": "..\\..\\Images\\masin_nomreleri\\Screenshot 2023-11-17 114937.png"
+  }
+]

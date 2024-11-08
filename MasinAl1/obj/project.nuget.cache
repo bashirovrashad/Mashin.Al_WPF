@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Frn28OSdnChHVd8zVlRcgZvELx5Gx5poYAdT9wkbSEJSQEEE3QWPxQrHiYK9Qv/5JQ1yjLyjUElP7qWBKc/ZDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO\\source\\repos\\MasinAl1\\MasinAl1\\MasinAl1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\NITRO\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\NITRO\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\NITRO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

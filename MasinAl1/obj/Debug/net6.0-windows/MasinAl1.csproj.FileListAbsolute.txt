@@ -1,0 +1,102 @@
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MasinAl1.exe
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MasinAl1.deps.json
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MasinAl1.runtimeconfig.json
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MasinAl1.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MasinAl1.pdb
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\MainWindow.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1_MarkupCompile.cache
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1_MarkupCompile.lref
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\MainWindow.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.g.resources
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\refint\MasinAl1.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.pdb
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\ref\MasinAl1.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-10 122233.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1_Content.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-10 124101.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\3225194_app_facebook_logo_media_popular_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\6929237_instagram_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\3787425_telegram_logo_messanger_social_social media_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\7693284_tiktok_social media_apps_logo_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\3225180_app_logo_media_popular_social_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\MasinAl1.csproj.CopyComplete
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 111109.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 111748.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 112332.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 112528.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 113816.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 113836.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-11 115919.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\image_button.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\image_button.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\dd2bea0a-8aba-4632-b20d-24b0813c3047.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\eed7b50d-dbe8-4220-98ad-070f3f3b39a9.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\1bff9a82-1a49-4395-a3bb-b561c251b3de.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\271f8f8d-6e9d-4252-961f-911608a448d7.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\35bd06fa-d689-451e-96b6-a89b62455e84.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\masin_nomreleri\Screenshot 2023-11-16 123000.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\Nomre_button.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\Nomre_button.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\masin_nomreleri\Screenshot 2023-11-16 125000.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\masin_nomreleri\Screenshot 2023-11-16 125056.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\35534_i4Yp6onln289ie_5qcDoNA.jpg
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\AllCarsWindow.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\AllCarsWindow.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\VipCarsWindow.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\VipCarsWindow.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\7f13ba00-879b-4f7a-8f20-0232e5b3c659.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\dab3c04b-eb89-421a-88e6-e25f1d7c1370.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\05706cb5-81cc-47f5-a97b-3c81089d2e47.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\4c6a76f2-3d7a-4be8-b120-3789c60715d0.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\vip_cars\ee45ecaf-9416-4738-8c15-d370b5baaca7.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\5d623be3-b851-4470-9661-c6612a252064.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\6802a276-a492-4b8b-98c0-28ef879ec095.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\a2f86ebd-3701-4dc2-b9e6-eae208ddde31.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\3dcb9313-58f3-4c74-a3ff-43cc5cc02187.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\eeafd7b6-ffcd-411d-9918-da49e0564aee.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\a1017553-731f-4f47-9cc4-f58958430b49.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\cars_\24a0f348-b4de-492e-a838-a4daa757c49c.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\masin_nomreleri\Screenshot 2023-11-17 114640.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\masin_nomreleri\Screenshot 2023-11-17 114937.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\5340292_locate_location_map_pin_icon.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\NomreWindow.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\NomreWindow.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\ShowCarWindow.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\WindowViews\ShowCarWindow.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\DaxilOlPage.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\DaxilOlPage.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\istockphoto-1064131986-612x612.jpg
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-17 211419.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\User_Registr_Page.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\User_Registr_Page.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\TextBoxWithPlaceholder.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\User_Controls\TextBoxWithPlaceholder.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\User_Registr2_Page.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\User_Registr2_Page.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\MyAccountPage.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\MyAccountPage.baml
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 192809.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 193339.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 193527.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 193909.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 194023.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 194138.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 194907.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 195002.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 195324.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\bin\Debug\net6.0-windows\Images\Screenshot 2023-11-18 200030.png
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\YeniElanPage.g.cs
+C:\Users\NITRO\source\repos\MasinAl1\MasinAl1\obj\Debug\net6.0-windows\Views\PageViews\YeniElanPage.baml

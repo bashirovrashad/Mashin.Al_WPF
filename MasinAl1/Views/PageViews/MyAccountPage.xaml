@@ -1,0 +1,57 @@
+﻿<Page x:Class="MasinAl1.Views.PageViews.MyAccountPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MasinAl1.Views.PageViews"
+       xmlns:mycontrol="clr-namespace:MasinAl1.User_Controls"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MyAccountPage">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="6*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Content="My Cars" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White" Background="#081a3e"></Label>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
+                <WrapPanel >
+                    <ItemsControl ItemsSource="{Binding MyCars}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <mycontrol:image_button />
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </WrapPanel>
+            </ScrollViewer>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="9*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Content="My Account" FontSize="18" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Foreground="White" Background="#081a3e"></Label>
+
+            <StackPanel Grid.Row="1">
+                <TextBox x:Name="myTextBox1"   Height="50" Margin="0,10,0,10" VerticalContentAlignment="Center" Foreground="White" Background="#081a3e" Text="{Binding Gmail}" HorizontalContentAlignment="Center"  ></TextBox>
+                <Button Height="50" Width="120" Margin="20" Background="#29a53e" Foreground="White" Content="Save" FontSize="16" Click="save"></Button>
+
+            </StackPanel>
+           
+        </Grid>
+        <Button Background="#29a53e" Foreground="White" Content="Main Menu" Width="120" Height="50" VerticalAlignment="Top" Margin="0,20" FontSize="16" Click="go_main"></Button>
+    </Grid>
+</Page>

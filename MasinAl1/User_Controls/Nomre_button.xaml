@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="MasinAl1.User_Controls.Nomre_button"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MasinAl1.User_Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Width="200" Height="150" Margin="10" HorizontalAlignment="Left"> 
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" Source="{Binding Sekil}"></Image>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Content="{Binding Qiymet}" Foreground="Blue" FontSize="16" HorizontalContentAlignment="Right"></Label>
+            <Label Grid.Column="1" Content="AZN" Foreground="Blue" FontSize="16" HorizontalContentAlignment="Left"></Label>
+        </Grid>
+        
+        <Label Grid.Row="2" Content="{Binding Name}"  FontSize="14"></Label>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5*" ></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0"></Label>
+            <Image Grid.Column="1" Source="..\..\Images\5340292_locate_location_map_pin_icon.png"></Image>
+            <Label Grid.Column="2" Content="{Binding Seher}" VerticalContentAlignment="Center" ></Label>
+        </Grid>
+    </Grid>
+</UserControl>

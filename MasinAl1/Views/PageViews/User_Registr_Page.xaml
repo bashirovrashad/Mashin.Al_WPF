@@ -1,0 +1,33 @@
+﻿<Page x:Class="MasinAl1.Views.PageViews.User_Registr_Page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:mycontrol="clr-namespace:MasinAl1.User_Controls"
+      xmlns:local="clr-namespace:MasinAl1.Views.PageViews"
+     
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="User_Registr_Page">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Column="1" Source="..\..\Images\Screenshot 2023-11-17 211419.png"></Image>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Content="Hesaba Daxil Ol" Grid.Row="0" FontSize="30" FontWeight="Bold" VerticalContentAlignment="Bottom" HorizontalContentAlignment="Center"></Label>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" Width="250" Height="50" VerticalAlignment="Top">
+                <Button  Width="120" Height="50" Content="Geri" FontSize="18" Background="#29a53e" Foreground="White"  Margin="0,0,10,0" Click="back_button"></Button>
+                <Button Width="120" Height="50" Content="Ireli" FontSize="18" Background="#29a53e" Foreground="White" Click="ireli_button" ></Button>
+            </StackPanel>
+            <mycontrol:TextBoxWithPlaceholder  Grid.Row="1" Width="250" Height="50" VerticalAlignment="Center" x:Name="textBoxWithPlaceholder"></mycontrol:TextBoxWithPlaceholder>
+        </Grid>
+    </Grid>
+</Page>
